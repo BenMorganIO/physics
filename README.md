@@ -394,10 +394,10 @@ _Prerequisite: One of PHYS 203, ENPH 257, PHYS 257, CHEM 201 and one of PHYS 304
 
 > Radioactive decay and radiations, nuclear properties, interactions of neutrons, physical principles of power reactors, nuclear fusion, radiation monitoring, and safety.
 
-_Prerequisite: One of PHYS 304, PHYS 450._
+_Prerequisite: One of [PHYS 304](#phys-304---introduction-to-quantum-mechanics), PHYS 450._
 
 ### PHYS 474 - Applied Solid State Physics
 
 > Symmetry of crystal structures, reciprocal lattice, band theory, conduction in metals and semiconductors, phonons and superconductivity.
 
-_Prerequisite: One of PHYS 450, PHYS 304._
+_Prerequisite: One of PHYS 450, [PHYS 304](#phys-304---introduction-to-quantum-mechanics)._
