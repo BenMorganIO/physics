@@ -15,58 +15,58 @@ See:
 
 ## Table of Contents
 
-- Astronomy
-  * ASTR 200 - Frontiers of Astrophysics
-  * ASTR 205 - Stars and Stellar Populations
-  * ASTR 300 - Galaxies
-  * ASTR 403 - Cosmology
-  * ASTR 404 - Astronomical and Astrophysical Measurements
-  * ASTR 406 - High-Energy Astrophysics
-  * ASTR 407 - Planetary Science
+- [Astronomy](#astronomy)
+  * [ASTR 200 - Frontiers of Astrophysics](#astr-200---frontiers-of-astrophysics)
+  * [ASTR 205 - Stars and Stellar Populations](#astr-205---stars-and-stellar-populations)
+  * [ASTR 300 - Galaxies](#astr-300---galaxies)
+  * [ASTR 403 - Cosmology](#astr-403---cosmology)
+  * [ASTR 404 - Astronomical and Astrophysical Measurements](#astr-404---astronomical-and-astrophysical-measurements)
+  * [ASTR 406 - High-Energy Astrophysics](#astr-406---high-energy-astrophysics)
+  * [ASTR 407 - Planetary Science](#astr-407---planetary-science)
 
-- Chemistry
-  * CHEM 121 - Structural Chemistry
+- [Chemistry](#chemistry)
+  * [CHEM 121 - Structural Chemistry](#chem-121---structural-chemistry)
 
-- Mathematics
-  * MATH 120 - Differential Calculus
-  * MATH 121 - Integral Calculus
-  * MATH 215 - Elementary Differential Equations I
-  * MATH 223 - Linear Algebra
-  * MATH 300 - Complex Variables
-  * MATH 301 - Applied Analysis
-  * MATH 316 - Elementary Differential Equations II
-  * MATH 318 - Probability with Physical Applications
-  * MATH 320 - Real Variables I
-  * MATH 321 - Real Variables II
-  * MATH 400 - Applied Partial Differential Equations
-  * MATH 401 - Green's Functions and Variational Methods
-  * MATH 402 - Calculus of Variations
-  * MATH 405 - Numerical Methods for Differential Equations
-  * MATH 418 - Probability
-  * MATH 420 - Real Analysis I
-  * MATH 421 - Real Analysis II
-  * MATH 450 - Asymptotic and Perturbation Methods
+- [Mathematics](#mathematics)
+  * [MATH 120 - Differential Calculus](#math-120---differential-calculus)
+  * [MATH 121 - Integral Calculus](#math-121---integral-calculus)
+  * [MATH 215 - Elementary Differential Equations I](#math-215---elementary-differential-equations-i)
+  * [MATH 223 - Linear Algebra](#math-223---linear-algebra)
+  * [MATH 300 - Complex Variables](#math-300---complex-variables)
+  * [MATH 301 - Applied Analysis](#math-301---applied-analysis)
+  * [MATH 316 - Elementary Differential Equations II](#math-316---elementary-differential-equations-ii)
+  * [MATH 318 - Probability with Physical Applications](#math-318---probability-with-physical-applications)
+  * [MATH 320 - Real Variables I](#math-320---real-variables-i)
+  * [MATH 321 - Real Variables II](#math-321---real-variables-ii)
+  * [MATH 400 - Applied Partial Differential Equations](#math-400---applied-partial-differential-equations)
+  * [MATH 401 - Green's Functions and Variational Methods](#math-401---greens-functions-and-variational-methods)
+  * [MATH 402 - Calculus of Variations](#math-402---calculus-of-variations)
+  * [MATH 405 - Numerical Methods for Differential Equations](#math-405---numerical-methods-for-differential-equations)
+  * [MATH 418 - Probability](#math-418---probability)
+  * [MATH 420 - Real Analysis I](#math-420---real-analysis-i)
+  * [MATH 421 - Real Analysis II](#math-421---real-analysis-ii)
+  * [MATH 450 - Asymptotic and Perturbation Methods](#math-450---asymptotic-and-perturbation-methods)
 
-- Physics
-  * PHYS 107 - Physics I
-  * PHYS 108 - Physics II
-  * PHYS 200 - Relativity and Quanta
-  * PHYS 203 - Thermodynamics
-  * PHYS 210 - Introduction to Computational Physics
-  * PHYS 216 - Intermediate Mechanics
-  * PHYS 301 - Electricity and Magnetism
-  * PHYS 304 - Introduction to Quantum Mechanics
-  * PHYS 306 - Advanced Mechanics
-  * PHYS 400 - Introduction to Elementary Particles
-  * PHYS 402 - Applications of Quantum Mechanics
-  * PHYS 405 - Radiation Biophysics
-  * PHYS 407 - Introduction to General Relativity
-  * PHYS 408 - Optics
-  * PHYS 410 - Computational Physics
-  * PHYS 437 - Physics of Biocellular Structure and Machinery
-  * PHYS 455 - Statistical Mechanics
-  * PHYS 473 - Applied Nuclear Physics
-  * PHYS 474 - Applied Solid State Physics
+- [Physics]()
+  * [PHYS 107 - Physics I](#phys-107---physics-i)
+  * [PHYS 108 - Physics II](#phys-108---physics-ii)
+  * [PHYS 200 - Relativity and Quanta](#phys-200---relativity-and-quanta)
+  * [PHYS 203 - Thermodynamics](#phys-203---thermodynamics)
+  * [PHYS 210 - Introduction to Computational Physics](#phys-210---introduction-to-computational-physics)
+  * [PHYS 216 - Intermediate Mechanics](#phys-216---intermediate-mechanics)
+  * [PHYS 301 - Electricity and Magnetism](#phys-301---electricity-and-magnetism)
+  * [PHYS 304 - Introduction to Quantum Mechanics](#phys-304---introduction-to-quantum-mechanics)
+  * [PHYS 306 - Advanced Mechanics](#phys-306---advanced-mechanics)
+  * [PHYS 400 - Introduction to Elementary Particles](#phys-400---introduction-to-elementary-particles)
+  * [PHYS 402 - Applications of Quantum Mechanics](#phys-402---applications-of-quantum-mechanics)
+  * [PHYS 405 - Radiation Biophysics](#phys-405---radiation-biophysics)
+  * [PHYS 407 - Introduction to General Relativity](#phys-407---introduction-to-general-relativity)
+  * [PHYS 408 - Optics](#phys-408---optics)
+  * [PHYS 410 - Computational Physics](#phys-410---computational-physics)
+  * [PHYS 437 - Physics of Biocellular Structure and Machinery](#phys-437---physics-of-biocellular-structure-and-machinery)
+  * [PHYS 455 - Statistical Mechanics](#phys-455---statistical-mechanics)
+  * [PHYS 473 - Applied Nuclear Physics](#phys-473---applied-nuclear-physics)
+  * [PHYS 474 - Applied Solid State Physics](#phys-474---applied-solid-state-physics)
 
 ## Astronomy
 
