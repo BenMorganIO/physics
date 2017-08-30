@@ -81,7 +81,7 @@ noun
 
 > Stellar masses and evolution. White dwarfs, neutron stars, and black holes. Extrasolar planet formation and detection. Dark matter in the Milky Way and other galaxies. Cosmological observations and principles.
 
-_Prerequisite: Either (a) one of PHYS 101, PHYS 107, PHYS 117, PHYS 157, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121; or (b) SCIE 001._
+_Prerequisite: Either (a) one of PHYS 101, [PHYS 107](##phys-107---physics-i), PHYS 117, PHYS 157, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121; or (b) SCIE 001._
 
 ### ASTR 205 - Stars and Stellar Populations
 
@@ -288,7 +288,7 @@ _Corequisite: One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184.
 
 > Electricity and magnetism, electrical circuits, induction, electromagnetic waves, Maxwell's equations and applications.
 
-_Prerequisite: Either (a) PHYS 107 or (b) a score of 85% or higher in PHYS 101 or (c) a score of 85% or higher in PHYS 117._
+_Prerequisite: Either (a) [PHYS 107](#phys-107---physics-i) or (b) a score of 85% or higher in PHYS 101 or (c) a score of 85% or higher in PHYS 117._
 
 _Corequisite: One of MATH 101, MATH 103, MATH 105, MATH 121._
 
@@ -318,7 +318,7 @@ _Corequisite: One of MATH 152, MATH 221, MATH 223._
 
 > Review of kinematics, Newton's laws, angular momentum and fixed axis rotation. Rigid body motion, central forces, non-inertial frames of reference. Introduction to Lagrangian and Hamiltonian mechanics.
 
-_Prerequisite: One of PHYS 107, PHYS 117, PHYS 170, SCIE 001 and one of MATH 152, MATH 221, MATH 223._
+_Prerequisite: One of [PHYS 107](##phys-107---physics-i), PHYS 117, PHYS 170, SCIE 001 and one of MATH 152, MATH 221, MATH 223._
 
 _Corequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263._
 
