@@ -113,7 +113,7 @@ _Prerequisite: All of PHYS 210, PHYS 408 and one of PHYS 312, MATH 316._
 
 > Radiative processes. White dwarfs, neutron stars, and black holes. Accreting systems. Gamma-ray bursts.
 
-_Prerequisite: All of PHYS 203, PHYS 301, MATH 215 and ASTR 300._
+_Prerequisite: All of [PHYS 203](#phys-203---thermodynamics), PHYS 301, MATH 215 and ASTR 300._
 
 ### ASTR 407 - Planetary Science
 
@@ -388,7 +388,7 @@ _Prerequisite: One of PHYS 313, PHYS 403, PHYS 455, CHEM 304._
 
 > Principles and applications of statistical mechanics. Ideal gases, degenerate Fermi gases, Bose-Einstein condensation, black body radiation, fluctuations and phase transitions.
 
-_Prerequisite: One of PHYS 203, ENPH 257, PHYS 257, CHEM 201 and one of PHYS 304, PHYS 450, CHEM 312. One of MATH 318, STAT 241, STAT 251 is recommended._
+_Prerequisite: One of [PHYS 203](#phys-203---thermodynamics), ENPH 257, PHYS 257, CHEM 201 and one of PHYS 304, PHYS 450, CHEM 312. One of MATH 318, STAT 241, STAT 251 is recommended._
 
 ### PHYS 473 - Applied Nuclear Physics
 
