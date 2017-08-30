@@ -47,7 +47,7 @@ See:
   * [MATH 421 - Real Analysis II](#math-421---real-analysis-ii)
   * [MATH 450 - Asymptotic and Perturbation Methods](#math-450---asymptotic-and-perturbation-methods)
 
-- [Physics]()
+- [Physics](#physics)
   * [PHYS 107 - Physics I](#phys-107---physics-i)
   * [PHYS 108 - Physics II](#phys-108---physics-ii)
   * [PHYS 200 - Relativity and Quanta](#phys-200---relativity-and-quanta)
