@@ -85,6 +85,9 @@ noun
 
 _Prerequisite: Either (a) one of PHYS 101, [PHYS 107], PHYS 117, PHYS 157, PHYS 153 and one of MATH 101, MATH 103, MATH 105, [MATH 121]; or (b) SCIE 001._
 
+- https://www.pearson.ch/HigherEducation/Pearson/EAN/9780321595584/Foundations-of-Astrophysics
+- http://www.astro.ubc.ca/people/gladman/a200.html
+
 ### ASTR 205 - Stars and Stellar Populations
 
 > Measurement of positions, motions, and distances in astronomy. Temperature, masses, and spectra of stars. Hertzsprung-Russell diagram. Quantitative stellar structure and evolution. Chemical composition of stars in different Galactic populations. Globular and open star clusters.
