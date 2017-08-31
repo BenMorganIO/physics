@@ -159,7 +159,11 @@ noun
 
 _Prerequisite: High-school calculus and one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12; or (b) permission from the Mathematics Department Head._
 
-- Single Variable Calculus by James Stewart
+- https://www.math.ubc.ca/~jzahl/teaching/ma120_W2016/ma120_W2016.html
+- http://www.math.ubc.ca/~feldman/m120/
+- http://www.math.ubc.ca/~gustaf/M120/
+- http://www.math.ubc.ca/~feldman/m120/m120outline.html
+- https://www.amazon.ca/Calculus-Single-Variable-Robert-Adams/dp/0321307143
 
 ### MATH 121 - Integral Calculus
 
@@ -167,7 +171,8 @@ _Prerequisite: High-school calculus and one of (a) a score of 95% or higher in B
 
 _Prerequisite: Either (a) a score of 68% or higher in [MATH 120 or (b) a score of 80% or higher in one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184 or (c) a score of 5 in AP Calculus AB._
 
-- Multi Variable Calculus by James Stewart
+- http://www.math.ubc.ca/~malabika/teaching/ubc/spring10/math121/index.html
+- https://www.math.ubc.ca/~malabika/teaching/ubc/spring16/math121/index.html
 
 ### MATH 215 - Elementary Differential Equations I
 
@@ -176,6 +181,16 @@ _Prerequisite: Either (a) a score of 68% or higher in [MATH 120 or (b) a score o
 _Prerequisite: One of MATH 101, MATH 103, MATH 105, [MATH 121], SCIE 001 and one of MATH 152, MATH 221, [MATH 223]._
 
 _Corequisite: One of MATH 200, [MATH 217], MATH 226, MATH 253, MATH 263._
+
+- https://www.math.ubc.ca/~ttsai/courses/215-255-15F/
+- http://www.math.ubc.ca/php/MathNet/courseinfo.php?session=2016W&t=outline&name=215:202
+- http://www.math.ubc.ca/~ttsai/courses/215-255-14F/
+- https://www.math.ubc.ca/php/MathNet/courseinfo.php?session=2015W&t=outline&name=215:201
+- https://www.math.ubc.ca/~ttsai/courses/215-255-15F/S102.html
+- http://www.math.ubc.ca/~malabika/teaching/ubc/summer15/math215-255/index.html
+- https://www.math.ubc.ca/~ward/teaching/m215/m215_2014.pdf
+- https://www.math.ubc.ca/~ward/teaching/math215.html
+- http://www.jirka.org/diffyqs/
 
 ### MATH 217 - Multivariable and Vector Calculus
 
@@ -360,6 +375,8 @@ _Corequisite: One of MATH 257, [MATH 316], PHYS 312._
 > Variational calculus, Lagrangian dynamics, rigid body motion including free and forced precession, Hamiltonian mechanics, Poisson brackets, canonical coordinates, Hamilton-Jacobi theory, action angle variables. Introduction to dynamical chaos: determinism, Lyapunov exponents.
 
 _Prerequisite: One of [PHYS 216], ENPH 270 and one of [MATH 215], MATH 255, MATH 256, MATH 265._
+
+- http://www.phas.ubc.ca/~gladman/p306/p306.html
 
 ### PHYS 400 - Introduction to Elementary Particles
 
