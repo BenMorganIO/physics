@@ -1,1 +1,4 @@
 .Ulysses-*
+
+# Ignore exported files
+/notes/**/*.pdf
