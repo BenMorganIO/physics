@@ -429,7 +429,7 @@ _Prerequisite: One of PHYS 450, [PHYS 304]._
 [MATH 120]: https://github.com/BenMorganIO/physics#math-120---differential-calculus
 [MATH 121]: https://github.com/BenMorganIO/physics#math-121---integral-calculus
 [MATH 215]: https://github.com/BenMorganIO/physics#math-215---elementary-differential-equations-i
-[MATH 217]: https://github.com/BenMorganIO/physics#math-217---multivariable-vector-calculus
+[MATH 217]: https://github.com/BenMorganIO/physics#math-217---multivariable-and-vector-calculus
 [MATH 220]: https://github.com/BenMorganIO/physics#math-220---mathematical-proof
 [MATH 223]: https://github.com/BenMorganIO/physics#math-223---linear-algebra
 [MATH 300]: https://github.com/BenMorganIO/physics#math-300---complex-variables
