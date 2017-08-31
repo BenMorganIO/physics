@@ -88,7 +88,7 @@ _Prerequisite: Either (a) one of PHYS 101, [PHYS 107](phys_107), PHYS 117, PHYS 
 
 > Measurement of positions, motions, and distances in astronomy. Temperature, masses, and spectra of stars. Hertzsprung-Russell diagram. Quantitative stellar structure and evolution. Chemical composition of stars in different Galactic populations. Globular and open star clusters.
 
-_Prerequisite: [ASTR 200](astr_200) and one of [PHYS 210](phys_210), EOSC 211, CPSC 302, CPSC 303._
+_Prerequisite: [ASTR 200] and one of [PHYS 210](phys_210), EOSC 211, CPSC 302, CPSC 303._
 
 ### ASTR 300 - Galaxies
 
@@ -120,7 +120,7 @@ _Prerequisite: All of [PHYS 203](phys_203), [PHYS 301](phys_301), [MATH 215](mat
 
 > Structure of planetary systems, planetary interiors, planet formation, planetary atmospheres, meteoritics, impact cratering.
 
-_Prerequisite: One of [PHYS 210](phys_210), EOSC 211 and one of [MATH 217](math_217), MATH 227, MATH 317 and one of [MATH 316](math_316), PHYS 312 and one of [ASTR 200](astr_200), EOSC 212._
+_Prerequisite: One of [PHYS 210](phys_210), EOSC 211 and one of [MATH 217](math_217), MATH 227, MATH 317 and one of [MATH 316](math_316), PHYS 312 and one of [ASTR 200], EOSC 212._
 
 _Corequisite: One of PHYS 206, [PHYS 216](phys_216), [PHYS 306](phys_306), EOSC 352._
 
@@ -403,7 +403,7 @@ _Prerequisite: One of [PHYS 304](phys_304), PHYS 450._
 
 _Prerequisite: One of PHYS 450, [PHYS 304](phys_304)._
 
-[astr_200]: https://github.com/BenMorganIO/physics#astr-200---frontiers-of-astrophysics
+[ASTR 200]: https://github.com/BenMorganIO/physics#astr-200---frontiers-of-astrophysics
 [astr_205]: https://github.com/BenMorganIO/physics#astr-205---stars-and-stellar-populations
 [astr_300]: https://github.com/BenMorganIO/physics#astr-300---galaxies
 [astr_403]: https://github.com/BenMorganIO/physics#astr-403---cosmology
