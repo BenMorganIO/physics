@@ -1,0 +1,3 @@
+[push "pandoc"]
+  textconv=pandoc --to=pdf
+  prompt = false
