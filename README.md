@@ -32,6 +32,7 @@ See:
   * [MATH 121] - Integral Calculus
   * [MATH 215] - Elementary Differential Equations I
   * [MATH 217] - Multivariable Vector Calculus
+  * [MATH 220] - Mathematical Proof
   * [MATH 223] - Linear Algebra
   * [MATH 300] - Complex Variables
   * [MATH 301] - Applied Analysis
@@ -96,7 +97,7 @@ _Prerequisite: [ASTR 200] and one of [PHYS 210], EOSC 211, CPSC 302, CPSC 303._
 
 _Prerequisite: [ASTR 205] and one of [PHYS 210], EOSC 211, CPSC 302, CPSC 303._
 
-_Corequisite: One of MATH 217, MATH 227, MATH 317._
+_Corequisite: One of [MATH 217], MATH 227, MATH 317._
 
 ### ASTR 403 - Cosmology
 
@@ -173,6 +174,20 @@ _Prerequisite: One of MATH 101, MATH 103, MATH 105, [MATH 121], SCIE 001 and one
 
 _Corequisite: One of MATH 200, [MATH 217], MATH 226, MATH 253, MATH 263._
 
+### MATH 217 - Multivariable and Vector Calculus
+
+> Partial differentiation, extreme values, multiple integration, vector fields, line and surface integrals, the divergence theorem, Green's and Stokes' theorems. Intended for students in Honours Physics and Engineering Physics.
+
+_Prerequisite: A score of 68% or higher in one of PHYS 101, [PHYS 107], PHYS 117, PHYS 153, PHYS 157, SCIE 001 and a score of 68% or higher in one of PHYS 102, [PHYS 108], PHYS 118, PHYS 153, PHYS 158, SCIE 001 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, [MATH 121], SCIE 001._
+
+_Corequisite: One of MATH 152, MATH 221, [MATH 223]._
+
+### MATH 220 - Mathematical Proof
+
+> Sets and functions; induction; cardinality; properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout.
+
+_Prerequisite: Either (a) a score of 64% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001 or (b) one of [MATH 121], MATH 200, MATH 217, MATH 226, MATH 253, MATH 263._
+
 ### MATH 223 - Linear Algebra
 
 > Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications.
@@ -213,7 +228,7 @@ _Corequisite: One of MATH 256, MATH 257, MATH 267, [MATH 316]._
 
 > The real number system; real Euclidean n-space; open, closed, compact, and connected sets; Bolzano-Weierstrass theorem; sequences and series. Continuity and uniform continuity. Differentiability and mean-value theorems.
 
-_Prerequisite: Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, [MATH 217], MATH 226, MATH 253, MATH 263 and a score of 80% or higher in MATH 220._
+_Prerequisite: Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, [MATH 217], MATH 226, MATH 253, MATH 263 and a score of 80% or higher in [MATH 220]._
 
 ### MATH 321 - Real Variables II
 
@@ -415,6 +430,7 @@ _Prerequisite: One of PHYS 450, [PHYS 304]._
 [MATH 121]: https://github.com/BenMorganIO/physics#math-121---integral-calculus
 [MATH 215]: https://github.com/BenMorganIO/physics#math-215---elementary-differential-equations-i
 [MATH 217]: https://github.com/BenMorganIO/physics#math-217---multivariable-vector-calculus
+[MATH 220]: https://github.com/BenMorganIO/physics#math-220---mathematical-proof
 [MATH 223]: https://github.com/BenMorganIO/physics#math-223---linear-algebra
 [MATH 300]: https://github.com/BenMorganIO/physics#math-300---complex-variables
 [MATH 301]: https://github.com/BenMorganIO/physics#math-301---applied-analysis
