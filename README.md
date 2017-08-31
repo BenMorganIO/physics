@@ -316,7 +316,7 @@ noun
 
 _Prerequisite: Either (a) a score of 85% or higher in PHYS 12 and a score of 85% or higher in MATH 12; or (b) a score of 85% or higher in PHYS 100 or (c) a score of 85% or higher in PHYS 12 and a score of 85% or higher in PREC 12; or (d) a score of 85% or higher in PHYS 12 and a score of 85% or higher in CALC 12. MATH 12 = Principles of Mathematics 12; PREC 12 = Pre-calculus 12; CALC 12 = Calculus 12, PHYS 12 = Physics 12._
 
-_Corequisite: One of MATH 100, MATH 102, MATH 104, [MATH 120, MATH 180, MATH 184._
+_Corequisite: One of MATH 100, MATH 102, MATH 104, [MATH 120], MATH 180, MATH 184._
 
 ### PHYS 108 - Physics II
 
