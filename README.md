@@ -31,6 +31,7 @@ See:
   * [MATH 120 - Differential Calculus](math_120)
   * [MATH 121 - Integral Calculus](math_121)
   * [MATH 215 - Elementary Differential Equations I](math_215)
+  * [MATH 217 - Multivariable Vector Calculus](math_217)
   * [MATH 223 - Linear Algebra](math_223)
   * [MATH 300 - Complex Variables](math_300)
   * [MATH 301 - Applied Analysis](math_301)
@@ -119,7 +120,7 @@ _Prerequisite: All of [PHYS 203](phys_203), [PHYS 301](phys_301), [MATH 215](mat
 
 > Structure of planetary systems, planetary interiors, planet formation, planetary atmospheres, meteoritics, impact cratering.
 
-_Prerequisite: One of [PHYS 210](phys_210), EOSC 211 and one of MATH 217, MATH 227, MATH 317 and one of [MATH 316](math_316), PHYS 312 and one of [ASTR 200](astr_200), EOSC 212._
+_Prerequisite: One of [PHYS 210](phys_210), EOSC 211 and one of [MATH 217](math_217), MATH 227, MATH 317 and one of [MATH 316](math_316), PHYS 312 and one of [ASTR 200](astr_200), EOSC 212._
 
 _Corequisite: One of PHYS 206, [PHYS 216](phys_216), [PHYS 306](phys_306), EOSC 352._
 
@@ -170,7 +171,7 @@ _Prerequisite: Either (a) a score of 68% or higher in [MATH 120](math_120) or (b
 
 _Prerequisite: One of MATH 101, MATH 103, MATH 105, [MATH 121](math_121), SCIE 001 and one of MATH 152, MATH 221, [MATH 223](math_223)._
 
-_Corequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263._
+_Corequisite: One of MATH 200, [MATH 217](math_217), MATH 226, MATH 253, MATH 263._
 
 ### MATH 223 - Linear Algebra
 
@@ -182,9 +183,9 @@ _Prerequisite: Either (a) [MATH 121](math_121) or (b) a score of 68% or higher i
 
 > Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles and residues.
 
-_Prerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263._
+_Prerequisite: One of MATH 200, [MATH 217](math_217), MATH 226, MATH 253, MATH 263._
 
-_Corequisite: One of MATH 217, MATH 227, MATH 263, MATH 317._
+_Corequisite: One of [MATH 217](math_217), MATH 227, MATH 263, MATH 317._
 
 ### MATH 301 - Applied Analysis
 
@@ -212,7 +213,7 @@ _Corequisite: One of MATH 256, MATH 257, MATH 267, [MATH 316](math_316)._
 
 > The real number system; real Euclidean n-space; open, closed, compact, and connected sets; Bolzano-Weierstrass theorem; sequences and series. Continuity and uniform continuity. Differentiability and mean-value theorems.
 
-_Prerequisite: Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263 and a score of 80% or higher in MATH 220._
+_Prerequisite: Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, [MATH 217](math_217), MATH 226, MATH 253, MATH 263 and a score of 80% or higher in MATH 220._
 
 ### MATH 321 - Real Variables II
 
@@ -304,7 +305,7 @@ _Prerequisite: Either (a) one of PHYS 102, [PHYS 108](phys_108), PHYS 118, PHYS 
 
 _Prerequisite: One of PHYS 102, [PHYS 108](phys_108), PHYS 118, PHYS 158, PHYS 153, SCIE 001._
 
-_Corequisite: One of MATH 217, MATH 200, MATH 226, MATH 253, MATH 263._
+_Corequisite: One of [MATH 217](math_217), MATH 200, MATH 226, MATH 253, MATH 263._
 
 ### PHYS 210 - Introduction to Computational Physics
 
@@ -320,13 +321,13 @@ _Corequisite: One of MATH 152, MATH 221, [MATH 223](math_223)._
 
 _Prerequisite: One of [PHYS 107](phys_107), PHYS 117, PHYS 170, SCIE 001 and one of MATH 152, MATH 221, [MATH 223](math_223)._
 
-_Corequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263._
+_Corequisite: One of MATH 200, [MATH 217](math_217), MATH 226, MATH 253, MATH 263._
 
 ### PHYS 301 - Electricity and Magnetism
 
 > Maxwell's equations and their applications, electrical fields and potentials of static charge distributions, current, fields of moving charges, magnetic fields, electromagnetic induction.
 
-_Prerequisite: One of PHYS 102, [PHYS 108](phys_108), PHYS 118, PHYS 153, PHYS 158, SCIE 001 and one of MATH 217, MATH 227, MATH 317 and one of [MATH 215](math_215), MATH 255._
+_Prerequisite: One of PHYS 102, [PHYS 108](phys_108), PHYS 118, PHYS 153, PHYS 158, SCIE 001 and one of [MATH 217](math_217), MATH 227, MATH 317 and one of [MATH 215](math_215), MATH 255._
 
 ### PHYS 304 - Introduction to Quantum Mechanics
 
@@ -364,11 +365,11 @@ _Prerequisite: One of PHYS 102, [PHYS 108](phys_108), PHYS 118, PHYS 153, PHYS 1
 
 > Physical consequences of Einstein's equations, including the principle of equivalence, curved space-time, geodesics, the Schwarzschild solution, deflection of light, black holes, and gravitational radiation.
 
-_Prerequisite: One of MATH 217, MATH 227, MATH 317 and one of [MATH 215](math_215), MATH 255. [PHYS 301](phys_301) and one of PHYS 206, [PHYS 306](phys_306) are recommended._
+_Prerequisite: One of [MATH 217](math_217), MATH 227, MATH 317 and one of [MATH 215](math_215), MATH 255. [PHYS 301](phys_301) and one of PHYS 206, [PHYS 306](phys_306) are recommended._
 
 ### PHYS 408 - Optics
 
-> Principles and applications of optical physics. Interference, diffraction, coherence, polarization, Fresnel relations, optical coatings, waves in dielectric media, Gaussian beams, waveguides, optical cavities, lasers, fibre optics, and Fourier optics. [3-3-0]
+> Principles and applications of optical physics. Interference, diffraction, coherence, polarization, Fresnel relations, optical coatings, waves in dielectric media, Gaussian beams, waveguides, optical cavities, lasers, fibre optics, and Fourier optics.
 
 _Prerequisite: One of [PHYS 301](phys_301), PHYS 354 and one of [MATH 215](math_215), MATH 255._
 
@@ -413,6 +414,7 @@ _Prerequisite: One of PHYS 450, [PHYS 304](phys_304)._
 [math_120]: #math-120---differential-calculus
 [math_121]: #math-121---integral-calculus
 [math_215]: #math-215---elementary-differential-equations-i
+[math_217]: #math-217---multivariable-vector-calculus
 [math_223]: #math-223---linear-algebra
 [math_300]: #math-300---complex-variables
 [math_301]: #math-301---applied-analysis
